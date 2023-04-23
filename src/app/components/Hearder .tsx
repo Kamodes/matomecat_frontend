@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <header className="bg-white py-4 shadow-md">
       <div className="container mx-auto px-4 flex justify-between items-center">
-        <h1 className="text-2xl font-bold text-blue-500">ブログタイトル</h1>
+        <h1 className="text-2xl font-bold text-blue-500">まとめキャット速報</h1>
         <nav>
           <ul className="flex space-x-4">
             <li>
